@@ -12,7 +12,7 @@ Here you'll find a curated collection of projects that showcase my skills across
 📂 classificaton_project_car_claims_classification/
 📂 credit_card_fraud_classification/
 📂 regression_project_predicting_the_amount_of_loan/
-📂 site/                                # My personal portfolio website
+📂 docs/                                                 # My personal portfolio website
 📂 vehicles_eda_project/
 📂 video_games_sales_analysis_sql/
 📂 web_scraping_retail_project/
